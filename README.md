@@ -49,8 +49,8 @@ The [Checklist](https://github.com/cburgessus/Komplematiks/blob/master/Checklist
 
 # Version History
 Version 0.0.0 - April 18 2019
-- Project Draft And Creation.
-- Drafted README file.
+- Drafted project and guidelines.
+- Drafted documentation files.
 
 # Bugs And Suggestions
 Despite making every effort to make our project clean and error-free, we have come to terms that we are human and we make mistakes. There come times when we miss these mistakes. If you find a bug, a mistake, or have an idea on how to make the project better, please let us know by visiting our bug tracker at:
