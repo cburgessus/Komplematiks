@@ -34,7 +34,39 @@ Chris initially wrote Komplematiks for C#. Since then, Komplematiks has grown to
 | --- | --- | --- | --- | --- |
 
 # Getting Started With Komplematiks
+We made it easy to use Komplematiks in your projects.  Follow these steps to get Komplematiks working in your programming environment.
+## Download the latest stable library file (Version 0.0.1)
+
+| Programming Language | Download | MD5 |
+| --- | --- | --- |
+| C# | [Komplematiks Ver.0.0.1 For C#](TBD) | TBD |
+| C++ | [Komplematiks Ver.0.0.1 For C++](TBD) | TBD |
+| Python | [Komplematiks Ver.0.0.1 For Python](TBD) | TBD |
+| Java | [Komplematiks Ver.0.0.1 For Java](TBD) | TBD |
+| Javascript | [Komplematiks Ver.0.0.1 For Javascript](TBD) | TBD |
+
+*All stable versions are available in the "Komplematiks/\<Language\>/Stable" folder of this repository.*
+
+## Open Your Preferred IDE And Include The Library In Your Program.
 TBD
+
+## That\'s It. You\'re Ready To Use Komplematiks
+Use the reference manuals in the next section to use the functions in your program. You should verify the Library works by running the following examples in your console. The console should report "Komplematiks \<Version\> is successfully installed."
+
+### C\# Users
+`Console.WriteLine(Komplematiks.Verify());`
+
+### C++ Users
+``
+
+### Python Users
+``
+
+### Java Users
+``
+
+### Javascript Users
+``
 
 # Reference Manual
 The developers of Komplematiks use tools to generate and compile two manuals for your convenience. You may find an online and an offline version of the manuals below.<br>
