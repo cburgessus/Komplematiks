@@ -9,24 +9,22 @@ This document contains a list of unfinished objectives. If you're looking to con
 5. Create Komplematiks/Language/Stable folders.
 
 # Documentation
-1. Readme.md - Implement Komplematiks branding on the top of the document.
-2. Readme.md - Write "Getting Started" section for newcomers.
-3. Readme.md - Populate links for offline / online reference manuals based.
-4. Readme.md - Update the version history to reflect added documentation for V.0.0.0
-5. Readme.md - Populate links for Mantis Bug Tracker.
-6. Readme.md - Populate Stable Build Version 0.0.1 links in the "Getting Started" section.
-7. Readme.md - Populate MD5 table with the stable build MD5s in the "Getting Started" section.
-8. Readme.md - Write instructions to include the library in various IDEs.
-9. Readme.md - Write console verification code samples for users to check if Komplematiks installed properly.
-10. ContributionGuidelines.md - Write "General Coding Standards - Variables" section.
-11. ContributionGuidelines.md - Write "General Coding Standards - Functions" section.
-12. ContributionGuidelines.md - Write "General Coding Standards - Parameters" section.
-13. ContributionGuidelines.md - Write "General Coding Standards - Comments and Documentation" section.
-14. ContributionGuidelines.md - Write "General Coding Standards - Categorization (Regions - C#)" section.
-15. ContributionGuidelines.md - Write "General Coding Standards - Porting To Other Languages" section.
-16. ContributionGuidelines.md - Write "Compiler Guide" section.
-17. ContributionGuidelines.md - Write "Debug Guide" section.
-18. Checklist.md - Write Code section that contains checklist for code related areas.
+1. Readme.md - Write "Getting Started" section for newcomers.
+2. Readme.md - Populate links for offline / online reference manuals based.
+3. Readme.md - Populate links for Mantis Bug Tracker.
+4. Readme.md - Populate Stable Build Version 0.0.1 links in the "Getting Started" section.
+5. Readme.md - Populate MD5 table with the stable build MD5s in the "Getting Started" section.
+6. Readme.md - Write instructions to include the library in various IDEs.
+7. Readme.md - Write console verification code samples for users to check if Komplematiks installed properly.
+8. ContributionGuidelines.md - Write "General Coding Standards - Variables" section.
+9. ContributionGuidelines.md - Write "General Coding Standards - Functions" section.
+10. ContributionGuidelines.md - Write "General Coding Standards - Parameters" section.
+11. ContributionGuidelines.md - Write "General Coding Standards - Comments and Documentation" section.
+12. ContributionGuidelines.md - Write "General Coding Standards - Categorization (Regions - C#)" section.
+13. ContributionGuidelines.md - Write "General Coding Standards - Porting To Other Languages" section.
+14. ContributionGuidelines.md - Write "Compiler Guide" section.
+15. ContributionGuidelines.md - Write "Debug Guide" section.
+16. Checklist.md - Write Code section that contains checklist for code related areas.
 
 # Code
 TBD
