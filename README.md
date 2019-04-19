@@ -1,3 +1,5 @@
+![Komplematiks Banner](https://github.com/cburgessus/Komplematiks/blob/master/Branding/Banner.png)
+
 # Komplematiks
 Welcome to the Komplematiks Library. Komplematiks is a complete Math library for building software that utilizes equations and formulas taught in schools. Its name is a conjunction of the German words "Komplett" (Complete) and "Mathematik" (Math).
 
