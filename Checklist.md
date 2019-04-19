@@ -10,18 +10,17 @@ This document contains a list of unfinished objectives. If you're looking to con
 1. Readme.md - Implement Komplematiks branding on the top of the document.
 2. Readme.md - Write "Getting Started" section for newcomers.
 3. Readme.md - Populate links for offline / online reference manuals based.
-4. Readme.md - Populate link for Checklist.md
-5. Readme.md - Update the version history to reflect added documentation for V.0.0.0
-6. Readme.md - Populate links for Mantis Bug Tracker.
-7. ContributionGuidelines.md - Write "General Coding Standards - Variables" section.
-8. ContributionGuidelines.md - Write "General Coding Standards - Functions" section.
-9. ContributionGuidelines.md - Write "General Coding Standards - Parameters" section.
-10. ContributionGuidelines.md - Write "General Coding Standards - Comments and Documentation" section.
-11. ContributionGuidelines.md - Write "General Coding Standards - Categorization (Regions - C#)" section.
-12. ContributionGuidelines.md - Write "General Coding Standards - Porting To Other Languages" section.
-13. ContributionGuidelines.md - Write "Compiler Guide" section.
-14. ContributionGuidelines.md - Write "Debug Guide" section.
-15. Checklist.md - Write Code section that contains checklist for code related areas.
+4. Readme.md - Update the version history to reflect added documentation for V.0.0.0
+5. Readme.md - Populate links for Mantis Bug Tracker.
+6. ContributionGuidelines.md - Write "General Coding Standards - Variables" section.
+7. ContributionGuidelines.md - Write "General Coding Standards - Functions" section.
+8. ContributionGuidelines.md - Write "General Coding Standards - Parameters" section.
+9. ContributionGuidelines.md - Write "General Coding Standards - Comments and Documentation" section.
+10. ContributionGuidelines.md - Write "General Coding Standards - Categorization (Regions - C#)" section.
+11. ContributionGuidelines.md - Write "General Coding Standards - Porting To Other Languages" section.
+12. ContributionGuidelines.md - Write "Compiler Guide" section.
+13. ContributionGuidelines.md - Write "Debug Guide" section.
+14. Checklist.md - Write Code section that contains checklist for code related areas.
 
 # Code
 TBD
