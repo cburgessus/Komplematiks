@@ -45,7 +45,7 @@ The developers of Komplematiks use tools to generate and compile two manuals for
 The Komplematiks team is looking to expand the curriculum and to maximize speed, security, and accuracy of Komplematiks. Developers of all skill levels and languages are welcome to contribute and help maintain the project. To maintain documentation and code consistency, all contributions must follow these guidelines.
 [Contribution Guidelines](https://github.com/cburgessus/Komplematiks/blob/master/ContributionGuidelines.md)
 
-The Checklist offers a list of objectives that could use help. You may find the list at [Checklist].
+The [Checklist](https://github.com/cburgessus/Komplematiks/blob/master/Checklist.md). offers a list of objectives that could use help. 
 
 # Version History
 Version 0.0.0 - April 18 2019
