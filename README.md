@@ -17,15 +17,17 @@ Welcome to the Komplematiks Library. Komplematiks is a complete Math library for
 Komplematiks supports curriculum taught in schools of all levels. Currently, available reference material allows Komplematiks to support:
 1. Accounting And Finance
 2. Algebra (Includes Pre-Algebra, Algebra I, Algebra II, College Algebra)
-2. Analysis
-3. Calculus (Includes Pre-Calculus, Calculus, Integration, Differentials)
-4. Functions
-2. Geometry
-3. Modeling
-4. Probability
-5. Regression
-7. Statistics
-8. Trigonometry
+3. Analysis
+4. Calculus (Includes Pre-Calculus, Calculus, Integration, Differentials)
+5. Conversions
+6. Functions
+7. Geometry
+8. Graphs And Diagrams
+9. Modeling
+10. Probability
+11. Regression
+12. Statistics
+13. Trigonometry
 
 Support for other Math curriculum will be available in future versions of the library.
 
@@ -41,11 +43,11 @@ We made it easy to use Komplematiks in your projects.  Follow these steps to get
 
 | Programming Language | Download | MD5 |
 | --- | --- | --- |
-| C# | [Komplematiks Ver.0.0.1 For C#](TBD) | TBD |
-| C++ | [Komplematiks Ver.0.0.1 For C++](TBD) | TBD |
-| Python | [Komplematiks Ver.0.0.1 For Python](TBD) | TBD |
-| Java | [Komplematiks Ver.0.0.1 For Java](TBD) | TBD |
-| Javascript | [Komplematiks Ver.0.0.1 For Javascript](TBD) | TBD |
+| C# | [Komplematiks Ver.0.0.0 For C#](TBD) | TBD |
+| C++ | [Komplematiks Ver.0.0.0 For C++](TBD) | TBD |
+| Python | [Komplematiks Ver.0.0.0 For Python](TBD) | TBD |
+| Java | [Komplematiks Ver.0.0.0 For Java](TBD) | TBD |
+| Javascript | [Komplematiks Ver.0.0.0 For Javascript](TBD) | TBD |
 
 *All stable versions are available in the "Komplematiks/\<Language\>/Stable" folder of this repository.*
 
@@ -53,10 +55,10 @@ We made it easy to use Komplematiks in your projects.  Follow these steps to get
 TBD
 
 ## That\'s It. You\'re Ready To Use Komplematiks
-Use the reference manuals in the next section to use the functions in your program. You should verify the Library works by running the following examples in your console. The console should report "Komplematiks \<Version\> is successfully installed."
+Use the reference manuals in the next section to use the functions in your program. You should verify the Library works by running the following examples in your console. The console should report "Komplematiks Version: \<Version\>"
 
 ### C\# Users
-`Console.WriteLine(Komplematiks.Verify());`
+`Komplematiks.VersionInfo.LogVersion();`
 
 ### C++ Users
 ``
@@ -68,7 +70,7 @@ Use the reference manuals in the next section to use the functions in your progr
 ``
 
 ### Javascript Users
-``
+`Komplematiks.VersionInfo.LogVersion();`
 
 # Reference Manual
 The developers of Komplematiks use tools to generate and compile two manuals for your convenience. You may find an online and an offline version of the manuals below.<br>
@@ -85,6 +87,7 @@ The [Checklist](https://github.com/cburgessus/Komplematiks/blob/master/Checklist
 Version 0.0.0 - April 18 2019
 - Drafted project and guidelines.
 - Drafted documentation files.
+- Added Version Information to the Libraries.
 
 # Bugs And Suggestions
 Despite making every effort to make our project clean and error-free, we have come to terms that we are human and we make mistakes. There come times when we miss these mistakes. If you find a bug, a mistake, or have an idea on how to make the project better, please let us know by visiting our bug tracker at:
